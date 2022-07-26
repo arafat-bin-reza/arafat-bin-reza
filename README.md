@@ -9,7 +9,7 @@ It’s me, Arafat Bin Reza, a Software Engineer, Passionate Programmer, and GitH
 C# | C++ | JavaScript | TypeScript
 
 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 & 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬
-.NET/.NET Core | ASP.NET Core | Blazor | Entity Framework Core | Angular
+.NET/.NET Core | ASP.NET Core | Entity Framework Core | Angular
 
 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬
 Microsoft SQL Server | MongoDB 
