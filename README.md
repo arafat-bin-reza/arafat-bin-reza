@@ -1,9 +1,9 @@
 👨‍💻 𝐒𝐔𝐌𝐌𝐀𝐑𝐘
-It’s me, Arafat Bin Reza, a Software Engineer, Passionate Programmer, and GitHub (open source) contributor with more than 4 years of professional experience in Enterprise Application and Software Development. 
+It’s me, Arafat Bin Reza, a Software Engineer, Passionate Programmer, and GitHub (open source) contributor with years of professional experience in Enterprise Application and Software Development. 
 
 𝐌𝐨𝐫𝐞𝐨𝐯𝐞𝐫, 𝐈 𝐡𝐚𝐯𝐞 𝐞𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 𝐢𝐧 𝐭𝐡𝐞 𝐟𝐨𝐥𝐥𝐨𝐰𝐢𝐧𝐠 𝐟𝐢𝐞𝐥𝐝𝐬:
 1. Clean Architecture	2. Domain-Driven Design
-3. Event Driven Architecture	4. Event Sourcing
+3. Event-Driven Architecture	4. Event Sourcing
 5. Cloud Functions	6. Azure DevOps, CI/CD pipeline integration
 7. System Analyst	8. Database Design
 9. Development of large-scale automation software solutions.
@@ -29,7 +29,7 @@ MVC (Model-view-controller pattern) | REST API
 HTML5 | CSS3 | Bootstrap | Tailwind CSS | JavaScript | TypeScript | jQuery | React
 
 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬
-Regular HackerRank and LeetCode problems solver.
+Regular HackerRank and LeetCode problem solver.
 
 ✉️ 𝐑𝐄𝐀𝐂𝐇 𝐌𝐄
-Email: arafat.reza1997@gmail.com
+Email: arafat.reza.developer@gmail.com
